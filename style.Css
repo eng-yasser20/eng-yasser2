@@ -1,0 +1,102 @@
+
+
+
+h1{
+  text-align: center;
+  
+ 
+}
+p{
+
+  font-size:large;
+  
+}
+.section {
+  display: inline-block;
+  position: relative;
+  border: 5px solid ;
+  width: 480px;
+  padding:1px;
+  min-width:850xp;
+  max-width: 849px;
+  margin: -2px;
+  margin-top: 10px;
+  left: 25px;
+  bottom:10px;
+
+  
+ 
+ 
+}
+
+
+.section-title1 {
+  position: absolute;
+  border: 2px solid #000;
+  border-radius: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  
+  top: 0;
+  right: 0;
+  background-color: #ce378a; 
+  color: black;
+  font-size: 175%;
+  padding: 2px 35px;
+}
+.section-title2 {
+
+  position: absolute;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 2px solid #000;
+  border-radius: 10px;
+  top: 0;
+  right: 0;
+  background-color: #8b1616; 
+  color: black;
+  font-size: 175%;
+  padding: 3px 40px;
+}
+.section-title3 {
+  position: absolute;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 2px solid #000;
+  border-radius: 10px;
+  top: 0;
+  right: 0;
+  background-color: #da9f61; 
+  color: black;
+ font-size: 175%;
+ padding: 2px 35px;
+}
+.x{
+  position: absolute;
+  border: 2px solid #000;
+  border-radius: 10px;
+  
+  left:  2px;
+  top: 140px;
+  
+  background-color: #da61be; 
+  color: black;
+  font-size: 75%;
+  padding: 2px 35px;
+
+
+
+}
+
+
+.chicken {
+  background-color: #ce1313;
+}
+
+.beef {
+  background-color: #888888;
+}
+
+.sushi {
+  background-color: #888888;
+}
+
+
